@@ -41,8 +41,8 @@
 </p>
 
 <img align="center" alt="-----------------------------------------------------------------" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhdkernel&show_icons=true&locale=en&layout=compact" alt="mhdkernel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XvSoniX&show_icons=true&locale=en&layout=compact" alt="XvSoniX" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdkernel&show_icons=true&locale=en" alt="mhdkernel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XvSoniX&show_icons=true&locale=en" alt="XvSoniX" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdkernel&" alt="mhdkernel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XvSoniX&" alt="XvSoniX" /></p>
