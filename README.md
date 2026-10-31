@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Mahdi Kazemi</h1>
-<h3 align="center">🔧 Cs Student | passionate about cybersecurity, Devops, and backend development.</h3>
-
+<h3 align="center">💻 Cs Student At Kntu | BackEnd Developer At Tamin ICT | Passionate about System Architecture, Backend Engineering, and Scalable Systems.</h3>
 <img align="right" alt="MhdKernel" width=400 height=400 src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdkernel&label=Profile%20views&color=0e75b6&style=flat" alt="mhdkernel" /> </p>
 
